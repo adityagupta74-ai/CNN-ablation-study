@@ -1,4 +1,4 @@
-# Progressive CNN Classifier — CIFAR-10
+# CNN Ablation Study — CIFAR-10
 
 A step-by-step study of deep learning regularization and optimization techniques, built on CIFAR-10. Instead of training one "final" model, this project starts from a plain CNN and adds **one technique at a time** — measuring the actual, isolated impact of each on accuracy, loss, and overfitting.
 
